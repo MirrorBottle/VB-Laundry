@@ -1,0 +1,13 @@
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\bin\Debug\Laundry.exe
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\bin\Debug\Laundry.pdb
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\bin\Debug\Laundry.xml
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\WindowsApplication1.DaftarKaryawan.resources
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\Laundry.exe
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\Laundry.xml
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\Laundry.pdb
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\WindowsApplication1.DaftarKonsumen.resources
+C:\Users\BAYU\Documents\Visual Studio 2012\Projects\Laundry\Laundry\obj\Debug\WindowsApplication1.DetailTransaksi.resources
